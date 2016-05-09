@@ -31,3 +31,6 @@ Core library has some dependencies. The following versions are used in developme
 OS specific instructions can be found here:
 * [Linux](https://github.com/reinterpretcat/utymap/wiki/Install-on-Linux)
 * [Windows](https://github.com/reinterpretcat/utymap/wiki/Install-on-windows)
+
+
+[![Join the chat at https://gitter.im/reinterpretcat/utymap](https://badges.gitter.im/reinterpretcat/utymap.svg)](https://gitter.im/reinterpretcat/utymap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
